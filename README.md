@@ -8,6 +8,9 @@
 进程监控运维工具:ansible,zabbix  
 持续化构建工具:jekins  
 代码规范检查工具:SonarQube  
+内网穿透工具:ngrok  
+正向代理工具:shadow-socket R  
+反向代理工具:nginx  
 
 ---
 容器化工具
@@ -17,7 +20,8 @@ docker-swarm
 kubernates  
 
 ---
-大数据工具
+大数据工具  
 集群管理工具:ambari,cdh  
 hive可视化工具:hue,zeppelin  
+ETL工具:kettle,pig,sqoop  
 
